@@ -84,10 +84,10 @@
 
 | Project | Tech Stack | Link |
 |---|---|---|
-| **PROJECT 01** <br/> **Spring Boot Session Project** | `Spring Boot` · `Java` · `JPA` · `MySQL` · `REST API` · `GitHub` | <a href="https://github.com/yeonie0309/SpringSession"><img src="https://img.shields.io/badge/GitHub 보기-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| **PROJECT 02** <br/> **Algorithm Study Lead** | `Java` · `Python` · `Algorithm` · `Data Structure` · `Problem Solving` · `GitHub` | <a href="https://github.com/yeonie0309/AlgorithmStudy"><img src="https://img.shields.io/badge/GitHub 보기-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
-| **PROJECT 03** <br/> **AI-Based Sleep-Aware Media & Smart Room Control System** | `Python` · `Raspberry Pi` · `OpenCV` · `MediaPipe` · `Face Mesh` · `IoT` | <a href="./assets/pdf/IoT_Sleep_System_Presentation.pdf"><img src="https://img.shields.io/badge/PDF 보기-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a> |
-| **PROJECT 04** <br/> **Knowledge Distillation 기반 금융 감성 분석 모델 경량화** | `Python` · `NLP` · `Knowledge Distillation` · `FinBERT` · `KoELECTRA` · `Pruning` | <a href="./assets/pdf/kd_capstone.pdf"><img src="https://img.shields.io/badge/PDF 보기-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a> |
+| **PROJECT 01** <br/> **Spring Boot Session Project** | `Spring Boot` · `Java` · `JPA` · `MySQL` · `REST API` · `GitHub` | <a href="https://github.com/yeonie0309/SpringSession"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| **PROJECT 02** <br/> **Algorithm Study Lead** | `Java` · `Python` · `Algorithm` · `Data Structure` · `Problem Solving` · `GitHub` | <a href="https://github.com/yeonie0309/AlgorithmStudy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> |
+| **PROJECT 03** <br/> **AI-Based Sleep-Aware Media & Smart Room Control System** | `Python` · `Raspberry Pi` · `OpenCV` · `MediaPipe` · `Face Mesh` · `IoT` | <a href="./assets/pdf/IoT_Sleep_System_Presentation.pdf"><img src="https://img.shields.io/badge/PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a> |
+| **PROJECT 04** <br/> **Knowledge Distillation 기반 금융 감성 분석 모델 경량화** | `Python` · `NLP` · `Knowledge Distillation` · `FinBERT` · `KoELECTRA` · `Pruning` | <a href="./assets/pdf/kd_capstone.pdf"><img src="https://img.shields.io/badge/PDF-B30B00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a> |
 | **PROJECT 05** <br/> **여기도 — 진행 중** <br/> Spring Boot 백엔드 파트 담당 | `Spring Boot` · `Java` · `JPA` · `MySQL` · `REST API` · `JWT` | <img src="https://img.shields.io/badge/In Progress-6C63FF?style=for-the-badge&logo=githubactions&logoColor=white"/> |
 
 <br/>
