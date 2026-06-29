@@ -6,7 +6,6 @@
 - **Major** : 컴퓨터공학부
 - **Birth** : 2003. 03. 09
 - **Location** :서울
-- **E-mail** : llieeynn137@gmail.com
 
 <br/>
 
