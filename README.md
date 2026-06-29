@@ -5,7 +5,7 @@
 - **University** : 한국외국어대학교
 - **Major** : 컴퓨터공학부
 - **Birth** : 2003. 03. 09
-- **Location** :서울
+- **Location** : 서울 송파구
 
 <br/>
 
