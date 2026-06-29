@@ -1,10 +1,11 @@
 # 🧾 Information
 
 
-- **이름** : 이가연
-- **소속** : 한국외국어대학교 컴퓨터공학부
+- **Name** : 이가연
+- **University** : 한국외국어대학교
+- **Major** : 컴퓨터공학부
 - **Birth** : 2003. 03. 09
-- **Location** : Seoul
+- **Location** :서울
 - **E-mail** : llieeynn137@gmail.com
 
 <br/>
