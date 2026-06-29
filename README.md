@@ -89,15 +89,5 @@
 
 <br/>
 
-# 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeonie0309&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeonie0309&layout=compact&hide_border=true" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=llieeynn137&layout=compact"/>
+hub-readme-stats.vercel.app/api/top-langs/?username=llieeynn137&layout=compact"/>
 </p>
